@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title>byteball</title>
-      <link href="/2018/04/11/one/"/>
-      <url>/2018/04/11/one/</url>
-      <content type="html"><![CDATA[]]></content>
-      
-      
-    </entry>
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[Byteball路线图]]></title>
+    <url>%2F2018%2F04%2F11%2FByteball%E8%B7%AF%E7%BA%BF%E5%9B%BE%2F</url>
+    <content type="text"><![CDATA[Byteball是基于DAG的加密货币，创始人Anton Churyumoff在2018苏黎世区块链峰会上 (https://www.swissblockchainsummit.com/) 介绍了Byteball，并总结了Byteball创立至今的发展路线图。 信息来源：https://youtu.be/C2MtBXqUcvk]]></content>
+      <tags>
+        <tag>byteball</tag>
+        <tag>区块链</tag>
+      </tags>
+  </entry>
 </search>
