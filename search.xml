@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Byteball信息门户页面]]></title>
-    <url>%2F2018%2F04%2F15%2FByteball-information%2F</url>
-    <content type="text"><![CDATA[Byteball日本社区网站地址：http://www.byteballjp.com/entry/byteballportalpage这篇信息门户页面非常棒，已翻成中文，分享给Byteball爱好者，帮助大家更深入了解Byteball。页面上的链接可以点击，可以了解更多相关信息。]]></content>
-      <tags>
-        <tag>byteball</tag>
-        <tag>区块链</tag>
-        <tag>信息收集</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Byteball 路线图]]></title>
-    <url>%2F2018%2F04%2F14%2FByteball%2F</url>
-    <content type="text"><![CDATA[Byteball是基于DAG的加密货币，创始人Anton Churyumoff在2018苏黎世区块链峰会上介绍了Byteball，并总结了Byteball创立至今的发展路线图。 (https://www.swissblockchainsummit.com/) 信息来源：https://youtu.be/C2MtBXqUcvk]]></content>
-      <tags>
-        <tag>byteball</tag>
-        <tag>区块链</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title>Byteball信息门户页面</title>
+      <link href="/2018/04/15/Byteball-information/"/>
+      <url>/2018/04/15/Byteball-information/</url>
+      <content type="html"><![CDATA[<p>Byteball日本社区网站地址：<a href="http://www.byteballjp.com/entry/byteballportalpage" target="_blank" rel="noopener">http://www.byteballjp.com/entry/byteballportalpage</a><br>这篇信息门户页面非常棒，已翻成中文，分享给Byteball爱好者，帮助大家更深入了解Byteball。页面上的链接可以点击，可以了解更多相关信息。</p><div class="row">    <embed src="https://qingningshui-1253342379.cos.ap-shanghai.myqcloud.com/Byteball.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+        <tags>
+            
+            <tag> byteball </tag>
+            
+            <tag> 区块链 </tag>
+            
+            <tag> 信息收集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Byteball 路线图</title>
+      <link href="/2018/04/14/Byteball/"/>
+      <url>/2018/04/14/Byteball/</url>
+      <content type="html"><![CDATA[<p>Byteball是基于DAG的加密货币，创始人Anton Churyumoff在2018苏黎世区块链峰会上介绍了Byteball，并总结了Byteball创立至今的发展路线图。 (<a href="https://www.swissblockchainsummit.com/" target="_blank" rel="noopener">https://www.swissblockchainsummit.com/</a>) </p><p><img src="images/0001.jpg" alt="0001"><br><img src="images/0002.jpg" alt="0002"><br><img src="images/0003.jpg" alt="0003"> </p><p>信息来源：<a href="https://youtu.be/C2MtBXqUcvk" target="_blank" rel="noopener">https://youtu.be/C2MtBXqUcvk</a></p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> byteball </tag>
+            
+            <tag> 区块链 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
